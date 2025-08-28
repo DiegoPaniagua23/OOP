@@ -1,2 +1,2 @@
-# POOE
-Programacion Orientada a Objetos y Eventos
+# OOP
+Object-Oriented Programming
